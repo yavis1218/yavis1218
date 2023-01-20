@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Niko Laine</h1>
 <h3 align="center">A Senior Blockchain && Fullstack developer</h3>
 
-<h3 align="left">Connect with me:</h3>
+- 👯 I’m looking to collaborate on special projects.
+- 👀 I’m interested in web and mobile app development, especially modern js frameworks like React.js,Angular,Vue.js and Blockchain Eco system.
+- 📧 You can contact me: niko121879@gmail.com
+- 🛰️ I enjoy digging into modern stack and challenge.
+- 👍 Nothing is impossible, impossible is just an opinion.
+
 <p align="left">
 </p>
 
