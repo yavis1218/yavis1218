@@ -5,7 +5,7 @@
 - 👀 I’m interested in web and mobile app development, especially modern js frameworks like React.js,Angular,Vue.js and Blockchain Eco system.
 - 👍 I enjoy digging into modern stack and challenge.
 - 🛰️ Nothing is impossible, impossible is just an opinion.
-live:.cid.19b52eb4fded3635
+
 <p align="left">
 </p>
 
