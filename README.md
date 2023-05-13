@@ -5,7 +5,7 @@
 - 👀 I’m interested in web and mobile app development, especially modern js frameworks like React.js,Angular,Vue.js and Blockchain Eco system.
 - 👍 I enjoy digging into modern stack and challenge.
 - 🛰️ Nothing is impossible, impossible is just an opinion.
-- 📧 Please contact me niko121879@gmail.com
+- 📧 Please contact me niko121879@gmail.com if you need any help
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
