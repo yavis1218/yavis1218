@@ -2,7 +2,6 @@
 <h3 align="center">Software Engineering.</h3>
 
 - 👯 I’m looking to collaborate on special projects.
-- 👀 I’m interested in web and mobile app development, especially modern js frameworks like React.js,Angular,Vue.js and Blockchain Eco system.
 - 👍 I enjoy digging into modern stack and challenge.
 - 🛰️ Nothing is impossible, impossible is just an opinion.
 - 📧 niko@factory-manual.com
