@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, How are you today?</h1>
-<h3 align="center">Software Engineering.</h3>
+<h1 align="left">Hi 👋, How are you today?</h1>
+<h3 align="left">Software Engineering.</h3>
 
 - 👯 I’m looking to collaborate on special projects.
 - 👍 I enjoy digging into modern stack and challenge.
